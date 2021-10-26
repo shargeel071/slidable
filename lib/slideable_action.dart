@@ -1,0 +1,1 @@
+enum SlideableAction{order, wishlist, share , delete}
